@@ -6,7 +6,7 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 export default function Navbar({ count, show, setshow}) {
   return (
     <>
-      <header classNameName="p-3 mb-3 border-bottom navbar">
+      <header classNameName="px-3 mb-3 border-bottom navbar">
         <div className="bg-dark fixed-top">
           <div className="container">
             <div className="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">

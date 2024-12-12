@@ -21,7 +21,8 @@ export default function footer() {
                 About
               </a>
             </li>
-          </ul>
+            </ul>
+          <p class="text-center text-muted">&copy; 2024 UK Shazil</p>
         </footer>
       </div>
     </>
